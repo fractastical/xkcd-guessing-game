@@ -1,4 +1,4 @@
-# XKCD Comic Text Extractor & AI Art Generator Game
+# "How I hacked together the universe" -> XKCD Comic Text Extractor & AI Art Generator Game
 
 This project is a Python-based script that extracts text from XKCD comics using OCR (Optical Character Recognition) and generates AI art based on the extracted text using OpenAI's DALL·E model. The game component involves matching the AI-generated images to the original XKCD comics based on the extracted text.
 
